@@ -1,4 +1,4 @@
-gi clone https://github.com/devulapallylaxmiprasanna16/nasa-shark.git
+git clone https://github.com/devulapallylaxmiprasanna16/nasa-shark.git
 
 cd nasa-shark
 
