@@ -1,0 +1,101 @@
+shark_id,species,tag_id,datetime_utc,latitude,longitude,depth_m,water_temp_C,battery_V,tag_status,source,behavior,sea_surface_temp_C,chlorophyll_mg_m3,ocean_current_speed_m_s,image_id
+S001,Whale Shark,T-1000,2025-10-01T06:00:00Z,14.459579,120.095581,5,28.09,4.2,recovered,acoustic_tag,transiting,27.34,0.503,0.21,
+S001,Whale Shark,T-1000,2025-10-01T18:00:00Z,14.338101,119.987807,10,25.83,4.18,active,photo_id,foraging,25.93,0.394,0.2,S001_img_002
+S001,Whale Shark,T-1000,2025-10-02T06:00:00Z,14.29608,119.89834,20,27.79,4.19,active,photo_id,transiting,26.4,0.701,0.33,S001_img_003
+S001,Whale Shark,T-1000,2025-10-02T18:00:00Z,14.155385,119.96929,9,26.26,4.18,active,manual_sighting,resting,27.12,0.612,0.48,
+S001,Whale Shark,T-1000,2025-10-03T06:00:00Z,14.120809,120.007491,1,27.2,4.18,active,manual_sighting,transiting,26.46,1.249,0.17,
+S001,Whale Shark,T-1000,2025-10-03T18:00:00Z,14.265318,121.493409,0,26.11,4.18,battery_low,satellite_tag,transiting,27.52,0.32,0.45,
+S001,Whale Shark,T-1000,2025-10-04T06:00:00Z,14.207129,121.602945,6,27.09,4.17,battery_low,satellite_tag,transiting,27.5,0.55,0.01,
+S001,Whale Shark,T-1000,2025-10-04T18:00:00Z,14.160974,121.657446,85,25.24,4.17,active,manual_sighting,deep_dive,26.02,0.85,0.03,
+S001,Whale Shark,T-1000,2025-10-05T06:00:00Z,14.735807,121.611149,20,26.95,4.18,inactive,satellite_tag,foraging,27.23,1.536,0.74,
+S001,Whale Shark,T-1000,2025-10-05T18:00:00Z,16.629349,118.789598,31,25.9,4.17,battery_low,satellite_tag,transiting,25.87,0.23,0.41,
+S001,Whale Shark,T-1000,2025-10-06T06:00:00Z,16.963929,118.360182,68,25.04,4.17,active,acoustic_tag,near_shore,26.62,0.449,0.37,
+S001,Whale Shark,T-1000,2025-10-06T18:00:00Z,17.180699,118.40694,31,25.16,4.17,active,acoustic_tag,foraging,25.69,0.53,0.49,
+S001,Whale Shark,T-1000,2025-10-07T06:00:00Z,17.035933,118.228116,14,25.6,4.16,active,photo_id,transiting,26.62,0.636,0.13,S001_img_013
+S001,Whale Shark,T-1000,2025-10-07T18:00:00Z,17.004237,118.198139,99,24.47,4.17,battery_low,satellite_tag,transiting,26.61,0.684,0.32,
+S001,Whale Shark,T-1000,2025-10-08T06:00:00Z,17.020499,118.204578,40,25.16,4.16,active,acoustic_tag,resting,26.74,0.576,1.07,
+S001,Whale Shark,T-1000,2025-10-08T18:00:00Z,17.420794,118.302985,14,25.95,4.17,active,photo_id,transiting,25.67,0.214,0.32,S001_img_016
+S001,Whale Shark,T-1000,2025-10-09T06:00:00Z,17.596606,118.313862,7,25.14,4.17,active,photo_id,foraging,26.15,0.421,0.14,S001_img_017
+S001,Whale Shark,T-1000,2025-10-09T18:00:00Z,17.702512,118.504341,5,25.47,4.16,inactive,acoustic_tag,transiting,27.07,0.891,0.15,
+S001,Whale Shark,T-1000,2025-10-10T06:00:00Z,17.690105,118.607041,20,24.93,4.16,active,photo_id,foraging,25.95,0.201,0.53,S001_img_019
+S001,Whale Shark,T-1000,2025-10-10T18:00:00Z,17.062772,118.838748,26,25.93,4.15,active,photo_id,foraging,26.12,0.615,0.2,S001_img_020
+S002,Great White,T-1001,2025-10-01T06:00:00Z,-24.45458,153.470908,3,24.19,4.18,inactive,acoustic_tag,transiting,23.61,0.144,0.3,
+S002,Great White,T-1001,2025-10-01T18:00:00Z,-24.14656,153.314236,80,22.05,4.18,battery_low,satellite_tag,near_shore,24.08,0.355,0.25,
+S002,Great White,T-1001,2025-10-02T06:00:00Z,-24.238884,153.085375,90,22.88,4.19,active,satellite_tag,foraging,23.79,0.659,0.3,
+S002,Great White,T-1001,2025-10-02T18:00:00Z,-24.231002,153.00816,65,21.6,4.19,battery_low,photo_id,transiting,23.53,0.19,0.41,S002_img_004
+S002,Great White,T-1001,2025-10-03T06:00:00Z,-23.834901,152.828527,128,21.05,4.19,battery_low,photo_id,transiting,23.38,0.345,0.36,S002_img_005
+S002,Great White,T-1001,2025-10-03T18:00:00Z,-23.775988,153.018608,14,23.49,4.19,recovered,satellite_tag,deep_dive,23.66,0.351,0.39,
+S002,Great White,T-1001,2025-10-04T06:00:00Z,-23.246715,153.121846,18,24.48,4.17,active,satellite_tag,deep_dive,23.65,0.852,0.13,
+S002,Great White,T-1001,2025-10-04T18:00:00Z,-23.553036,153.039318,2,24.31,4.18,battery_low,acoustic_tag,transiting,22.95,0.32,0.24,
+S002,Great White,T-1001,2025-10-05T06:00:00Z,-23.561538,153.040103,9,24.05,4.17,battery_low,acoustic_tag,transiting,23.64,0.082,0.27,
+S002,Great White,T-1001,2025-10-05T18:00:00Z,-23.539968,153.086703,3,24.4,4.17,active,manual_sighting,foraging,24.64,0.887,0.33,
+S002,Great White,T-1001,2025-10-06T06:00:00Z,-23.112355,152.757859,0,24.42,4.17,active,manual_sighting,transiting,22.87,1.261,0.31,
+S002,Great White,T-1001,2025-10-06T18:00:00Z,-22.994008,152.752132,18,23.83,4.17,active,satellite_tag,transiting,23.99,0.077,0.4,
+S002,Great White,T-1001,2025-10-07T06:00:00Z,-22.786976,152.520029,1,23.93,4.17,active,satellite_tag,transiting,23.46,0.179,0.06,
+S002,Great White,T-1001,2025-10-07T18:00:00Z,-22.778067,152.638049,62,23.48,4.16,active,satellite_tag,transiting,23.55,2.195,0.24,
+S002,Great White,T-1001,2025-10-08T06:00:00Z,-22.889515,152.917894,22,23.49,4.16,active,satellite_tag,transiting,23.34,0.157,0.08,
+S002,Great White,T-1001,2025-10-08T18:00:00Z,-22.657581,153.209678,2,24.88,4.16,active,satellite_tag,transiting,24.39,1.169,0.04,
+S002,Great White,T-1001,2025-10-09T06:00:00Z,-22.637185,153.184134,10,23.45,4.16,recovered,satellite_tag,transiting,23.47,0.173,0.45,
+S002,Great White,T-1001,2025-10-09T18:00:00Z,-22.575635,153.840813,44,23.65,4.16,active,satellite_tag,transiting,23.39,0.05,0.46,
+S002,Great White,T-1001,2025-10-10T06:00:00Z,-22.837573,153.688124,4,24.06,4.16,active,acoustic_tag,foraging,23.53,0.127,0.37,
+S002,Great White,T-1001,2025-10-10T18:00:00Z,-22.825138,153.663866,55,22.77,4.16,active,satellite_tag,resting,23.96,1.836,0.25,
+S003,Tiger Shark,T-1002,2025-10-01T06:00:00Z,24.911636,-79.692846,18,20.97,4.19,active,manual_sighting,transiting,21.5,0.384,0.0,
+S003,Tiger Shark,T-1002,2025-10-01T18:00:00Z,25.040193,-79.866747,22,20.73,4.19,active,satellite_tag,foraging,21.05,0.197,0.23,
+S003,Tiger Shark,T-1002,2025-10-02T06:00:00Z,25.474252,-80.032267,7,21.51,4.18,active,photo_id,transiting,20.35,0.471,0.06,S003_img_003
+S003,Tiger Shark,T-1002,2025-10-02T18:00:00Z,25.753924,-80.058582,26,21.54,4.19,battery_low,manual_sighting,foraging,21.04,1.092,0.35,
+S003,Tiger Shark,T-1002,2025-10-03T06:00:00Z,25.658407,-79.909414,81,19.39,4.19,recovered,acoustic_tag,transiting,22.1,0.581,0.27,
+S003,Tiger Shark,T-1002,2025-10-03T18:00:00Z,25.48884,-80.216997,75,18.34,4.18,active,satellite_tag,transiting,20.75,0.637,0.46,
+S003,Tiger Shark,T-1002,2025-10-04T06:00:00Z,25.709233,-80.633898,0,20.46,4.17,active,satellite_tag,transiting,20.81,1.023,0.3,
+S003,Tiger Shark,T-1002,2025-10-04T18:00:00Z,25.7532,-80.669462,6,20.5,4.17,active,acoustic_tag,transiting,19.47,2.332,0.06,
+S003,Tiger Shark,T-1002,2025-10-05T06:00:00Z,25.826459,-80.740971,14,20.51,4.18,active,satellite_tag,foraging,20.73,0.895,0.44,
+S003,Tiger Shark,T-1002,2025-10-05T18:00:00Z,25.788352,-80.701473,8,20.39,4.17,battery_low,acoustic_tag,transiting,20.24,1.576,0.03,
+S003,Tiger Shark,T-1002,2025-10-06T06:00:00Z,25.212672,-81.121858,26,20.39,4.17,active,satellite_tag,transiting,21.44,0.838,0.23,
+S003,Tiger Shark,T-1002,2025-10-06T18:00:00Z,25.279628,-81.533043,8,20.8,4.16,active,satellite_tag,transiting,21.03,0.238,0.7,
+S003,Tiger Shark,T-1002,2025-10-07T06:00:00Z,25.64053,-79.379903,27,19.94,4.16,active,satellite_tag,foraging,20.66,0.426,0.18,
+S003,Tiger Shark,T-1002,2025-10-07T18:00:00Z,25.608091,-79.432583,10,20.96,4.16,battery_low,acoustic_tag,transiting,20.56,0.394,0.04,
+S003,Tiger Shark,T-1002,2025-10-08T06:00:00Z,25.411818,-75.794535,34,19.34,4.16,battery_low,acoustic_tag,transiting,20.04,0.971,0.29,
+S003,Tiger Shark,T-1002,2025-10-08T18:00:00Z,25.466745,-76.251503,39,20.72,4.16,battery_low,satellite_tag,transiting,21.12,0.43,0.46,
+S003,Tiger Shark,T-1002,2025-10-09T06:00:00Z,25.575419,-76.30898,86,19.69,4.15,active,acoustic_tag,transiting,20.17,0.569,0.34,
+S003,Tiger Shark,T-1002,2025-10-09T18:00:00Z,26.602145,-80.327559,46,19.69,4.15,active,satellite_tag,transiting,20.58,2.285,0.54,
+S003,Tiger Shark,T-1002,2025-10-10T06:00:00Z,26.534401,-80.696775,62,17.95,4.15,active,satellite_tag,transiting,20.06,0.21,0.29,
+S003,Tiger Shark,T-1002,2025-10-10T18:00:00Z,26.932687,-80.983421,89,19.09,4.14,active,photo_id,transiting,20.52,1.411,0.01,S003_img_020
+S004,Bull Shark,T-1003,2025-10-01T06:00:00Z,-35.021734,18.228228,45,18.76,4.18,battery_low,manual_sighting,deep_dive,19.78,0.068,0.13,
+S004,Bull Shark,T-1003,2025-10-01T18:00:00Z,-35.181288,18.451534,23,20.77,4.2,battery_low,satellite_tag,transiting,20.06,0.487,0.13,
+S004,Bull Shark,T-1003,2025-10-02T06:00:00Z,-35.599853,18.083287,38,18.61,4.19,active,satellite_tag,near_shore,18.05,0.113,0.2,
+S004,Bull Shark,T-1003,2025-10-02T18:00:00Z,-35.350057,18.915287,63,19.25,4.18,battery_low,acoustic_tag,resting,20.41,0.99,0.17,
+S004,Bull Shark,T-1003,2025-10-03T06:00:00Z,-35.457512,18.618743,5,20.07,4.18,active,satellite_tag,foraging,19.85,0.381,0.43,
+S004,Bull Shark,T-1003,2025-10-03T18:00:00Z,-35.616805,18.75799,23,19.37,4.18,battery_low,satellite_tag,near_shore,19.57,0.424,0.23,
+S004,Bull Shark,T-1003,2025-10-04T06:00:00Z,-36.067168,19.053366,1,19.67,4.19,active,satellite_tag,transiting,20.04,0.924,0.01,
+S004,Bull Shark,T-1003,2025-10-04T18:00:00Z,-36.09881,19.09803,7,19.47,4.17,active,manual_sighting,transiting,19.99,0.311,0.05,
+S004,Bull Shark,T-1003,2025-10-05T06:00:00Z,-35.695148,18.983097,7,19.61,4.18,battery_low,photo_id,deep_dive,19.91,0.268,0.41,S004_img_009
+S004,Bull Shark,T-1003,2025-10-05T18:00:00Z,-35.511505,19.450722,0,20.15,4.17,active,satellite_tag,transiting,19.51,1.543,0.15,
+S004,Bull Shark,T-1003,2025-10-06T06:00:00Z,-35.866857,19.60563,11,19.37,4.18,active,photo_id,foraging,20.26,0.078,0.11,S004_img_011
+S004,Bull Shark,T-1003,2025-10-06T18:00:00Z,-35.867645,19.292907,36,18.91,4.17,active,satellite_tag,transiting,19.23,0.252,0.5,
+S004,Bull Shark,T-1003,2025-10-07T06:00:00Z,-36.02035,19.122982,30,20.1,4.16,inactive,acoustic_tag,transiting,19.74,0.835,0.72,
+S004,Bull Shark,T-1003,2025-10-07T18:00:00Z,-35.791044,19.155304,1,19.26,4.16,active,manual_sighting,transiting,20.02,0.174,0.89,
+S004,Bull Shark,T-1003,2025-10-08T06:00:00Z,-35.989041,19.352345,110,17.11,4.16,active,satellite_tag,transiting,20.25,0.307,0.2,
+S004,Bull Shark,T-1003,2025-10-08T18:00:00Z,-36.525836,18.559779,1,19.92,4.16,inactive,photo_id,near_shore,19.43,0.791,0.46,S004_img_016
+S004,Bull Shark,T-1003,2025-10-09T06:00:00Z,-36.392913,18.17057,39,18.76,4.15,active,satellite_tag,deep_dive,19.71,0.249,0.41,
+S004,Bull Shark,T-1003,2025-10-09T18:00:00Z,-36.257756,17.550793,26,18.53,4.15,active,acoustic_tag,transiting,19.34,0.492,0.01,
+S004,Bull Shark,T-1003,2025-10-10T06:00:00Z,-36.652515,17.610183,16,19.04,4.15,active,satellite_tag,transiting,19.88,1.03,0.38,
+S004,Bull Shark,T-1003,2025-10-10T18:00:00Z,-36.360596,17.694517,3,19.44,4.15,battery_low,satellite_tag,transiting,19.91,0.317,0.18,
+S005,Hammerhead,T-1004,2025-10-01T06:00:00Z,7.031558,-73.69674,18,25.92,4.19,active,satellite_tag,transiting,25.98,0.646,0.18,
+S005,Hammerhead,T-1004,2025-10-01T18:00:00Z,6.939291,-73.590732,54,25.58,4.19,active,manual_sighting,foraging,27.03,1.003,0.08,
+S005,Hammerhead,T-1004,2025-10-02T06:00:00Z,6.595417,-73.457564,223,22.55,4.18,active,acoustic_tag,near_shore,25.74,0.102,0.42,
+S005,Hammerhead,T-1004,2025-10-02T18:00:00Z,6.500203,-73.014435,3,26.47,4.19,active,satellite_tag,foraging,26.12,0.05,0.04,
+S005,Hammerhead,T-1004,2025-10-03T06:00:00Z,6.524641,-73.115913,28,24.72,4.17,active,photo_id,transiting,26.03,0.05,0.5,S005_img_005
+S005,Hammerhead,T-1004,2025-10-03T18:00:00Z,7.292804,-72.800948,37,26.1,4.19,battery_low,satellite_tag,near_shore,26.0,0.252,0.13,
+S005,Hammerhead,T-1004,2025-10-04T06:00:00Z,7.382336,-72.85835,11,27.12,4.18,active,satellite_tag,transiting,25.87,0.595,0.18,
+S005,Hammerhead,T-1004,2025-10-04T18:00:00Z,6.954714,-72.739121,19,26.62,4.19,active,manual_sighting,foraging,26.51,0.362,0.4,
+S005,Hammerhead,T-1004,2025-10-05T06:00:00Z,7.012231,-72.75429,13,26.37,4.18,battery_low,satellite_tag,foraging,26.58,0.129,0.06,
+S005,Hammerhead,T-1004,2025-10-05T18:00:00Z,7.181508,-72.642934,3,26.34,4.17,active,satellite_tag,transiting,26.37,0.525,0.15,
+S005,Hammerhead,T-1004,2025-10-06T06:00:00Z,6.931318,-72.383754,2,27.1,4.18,active,satellite_tag,foraging,25.98,0.441,0.01,
+S005,Hammerhead,T-1004,2025-10-06T18:00:00Z,7.540715,-72.723646,154,22.82,4.16,active,satellite_tag,foraging,27.28,0.093,0.43,
+S005,Hammerhead,T-1004,2025-10-07T06:00:00Z,7.350718,-72.879599,47,25.71,4.16,battery_low,photo_id,resting,26.2,2.126,0.38,S005_img_013
+S005,Hammerhead,T-1004,2025-10-07T18:00:00Z,7.406397,-72.801408,1,26.3,4.17,active,manual_sighting,foraging,25.9,0.117,0.02,
+S005,Hammerhead,T-1004,2025-10-08T06:00:00Z,8.098792,-72.803109,57,25.44,4.16,battery_low,manual_sighting,resting,26.09,0.153,0.5,
+S005,Hammerhead,T-1004,2025-10-08T18:00:00Z,8.075953,-72.870847,30,26.13,4.15,battery_low,photo_id,foraging,26.24,0.156,0.41,S005_img_016
+S005,Hammerhead,T-1004,2025-10-09T06:00:00Z,7.677199,-71.905376,16,26.0,4.16,active,photo_id,transiting,25.28,3.215,0.54,S005_img_017
+S005,Hammerhead,T-1004,2025-10-09T18:00:00Z,7.668918,-71.980543,10,25.96,4.16,active,manual_sighting,resting,25.96,0.079,0.48,
+S005,Hammerhead,T-1004,2025-10-10T06:00:00Z,7.556894,-71.815176,16,26.04,4.15,active,satellite_tag,transiting,26.69,0.451,0.38,
+S005,Hammerhead,T-1004,2025-10-10T18:00:00Z,7.554082,-71.994889,3,26.92,4.16,inactive,photo_id,transiting,26.29,0.281,0.16,S005_img_020
